@@ -1,0 +1,17 @@
+path: D:\yolo\ultralytics-main\ultralytics-main\ultralytics\remote_sensing\remote_data
+train: train/images
+val: vaild/images
+test: test/images
+
+names:
+  0: airplane
+  1: ship
+  2: storage tank
+  3: baseball diamond
+  4: tennis court
+  5: basketball court
+  6: ground track field
+  7: harbor
+  8: bridge
+  9: vehicle
+
